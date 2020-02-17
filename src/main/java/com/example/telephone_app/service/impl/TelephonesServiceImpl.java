@@ -1,6 +1,7 @@
-package com.example.telephone_app.service;
+package com.example.telephone_app.service.impl;
 
 import com.example.telephone_app.repository.UsersRepository;
+import com.example.telephone_app.service.TelephonesService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
